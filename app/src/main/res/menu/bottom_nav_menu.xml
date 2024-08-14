@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_wabusiness"
+        android:icon="@mipmap/wb_ic"
+        android:title="@string/title_wabusiness" />
+
+    <item
+        android:id="@+id/navigation_whatsapp"
+        android:icon="@mipmap/was"
+        android:title="@string/title_whatsapp" />
+
+    <item
+        android:id="@+id/navigation_saved"
+        android:icon="@mipmap/sav_1"
+        android:title="@string/title_saved" />
+
+</menu>
