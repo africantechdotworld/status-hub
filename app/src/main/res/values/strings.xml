@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Status Hub</string>
+    <string name="title_wabusiness">WA Business</string>
+    <string name="title_whatsapp">Whatsapp</string>
+    <string name="title_saved">Saved</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_request_text">To continue using Status Hub, you must grant access to the app\'s required permission for better functionality and usage of the app</string>
+    <string name="get_started">Get Started</string>
+    <string name="cannot_load_wadir">Cannot Find Whatsapp Directory</string>
+    <string name="no_files_found">Cannot Find Whatsapp Directory</string>
+</resources>
